@@ -1,0 +1,236 @@
+{
+  "product": {
+    "product_id": "158108",
+    "brand": "Mamaearth",
+    "name": "Ubtan Face Wash with Turmeric & Saffron",
+    "subcategory": "Cleanser",
+    "price": 224.0,
+    "currency": "INR",
+    "urls": {
+      "product": "https://www.purplle.com/product/mamaearth-ubtan-natural-face-wash-for-dry-skin-with-turmeric-and-saffron-for-tan-removal-and-skin-brightning-100-ml",
+      "image": "https://media6.ppl-media.com/static/img/product/158108/mamaearth-ubtan-natural-face-wash-for-dry-skin-with-turmeric-and-saffron-for-tan-removal-and-skin-brightning-100-ml_8_display_1700558662_34e6810b.jpg"
+    }
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Reduces tanning and brightens complexion with consistent use",
+        "Delivers visible glow quickly, sometimes after just one wash",
+        "Removes dirt effectively, leaving skin cleaner and more radiant"
+      ],
+      "top_pros": [
+        "Reduces tanning and brightens complexion with consistent use",
+        "Delivers visible glow quickly, sometimes after just one wash",
+        "Removes dirt effectively, leaving skin cleaner and more radiant"
+      ],
+      "quote": {
+        "review_id": "2570420",
+        "text": "good for tan Removal and refreshing",
+        "author": "Tejaswini",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2570420",
+          "text": "good for tan Removal and refreshing",
+          "author": "Tejaswini",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Good quality at this price, delivers solid daily performance",
+        "Worth the cost for consistent results and gentle cleansing",
+        "Affordable option without compromising effectiveness or overall user experience"
+      ],
+      "top_pros": [
+        "Good quality at this price, delivers solid daily performance",
+        "Worth the cost for consistent results and gentle cleansing",
+        "Affordable option without compromising effectiveness or overall user experience"
+      ],
+      "quote": {
+        "review_id": "3734340",
+        "text": "value for money good service also",
+        "author": "Bekkanti Varalaxmi",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "3734340",
+          "text": "value for money good service also",
+          "author": "Bekkanti Varalaxmi",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Lathers quickly and spreads evenly, making cleansing effortless",
+        "Rinses off easily without residue, leaving skin feeling refreshed",
+        "Gentle formula suitable for daily use across most skin types"
+      ],
+      "top_pros": [
+        "Lathers quickly and spreads evenly, making cleansing effortless",
+        "Rinses off easily without residue, leaving skin feeling refreshed",
+        "Gentle formula suitable for daily use across most skin types"
+      ],
+      "quote": {
+        "review_id": "2379009",
+        "text": "I would love to order this again",
+        "author": "Deepmala Gurad",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2379009",
+          "text": "I would love to order this again",
+          "author": "Deepmala Gurad",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Secure, tamper-proof packaging ensures product arrives intact",
+        "Travel-friendly tube fits purse, with tight cap preventing leaks"
+      ],
+      "top_pros": [
+        "Secure, tamper-proof packaging ensures product arrives intact",
+        "Travel-friendly tube fits purse, with tight cap preventing leaks"
+      ],
+      "quote": {
+        "review_id": "2307571",
+        "text": "i think i got a first copy of mamaearth facewash because the package of my facewash is too dull and not in…",
+        "author": "Monika",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2307571",
+          "text": "i think i got a first copy of mamaearth facewash because the package of my facewash is too dull and not in…",
+          "author": "Monika",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Smooth creamy texture with mild exfoliating particles, feels gentle",
+        "Thick consistency that lathers well and spreads evenly on skin",
+        "Leaves a smooth soft finish after rinsing"
+      ],
+      "top_pros": [
+        "Smooth creamy texture with mild exfoliating particles, feels gentle",
+        "Thick consistency that lathers well and spreads evenly on skin",
+        "Leaves a smooth soft finish after rinsing"
+      ],
+      "quote": {
+        "review_id": "3230895",
+        "text": "Creamy texture & Good for daily use",
+        "author": "Tanu",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "3230895",
+          "text": "Creamy texture & Good for daily use",
+          "author": "Tanu",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Ingredients",
+      "icon": "flask",
+      "pros": [
+        "Made with natural ingredients like turmeric and saffron",
+        "Free from harsh chemicals, gentle on most skin types",
+        "Thoughtfully formulated ingredients provide effective cleansing without over-drying"
+      ],
+      "top_pros": [
+        "Made with natural ingredients like turmeric and saffron",
+        "Free from harsh chemicals, gentle on most skin types",
+        "Thoughtfully formulated ingredients provide effective cleansing without over-drying"
+      ],
+      "quote": {
+        "review_id": "5457049",
+        "text": "very good facewash with natural ingredients without any chemical I like this",
+        "author": "Amreenhayat",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "5457049",
+          "text": "very good facewash with natural ingredients without any chemical I like this",
+          "author": "Amreenhayat",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Fragrance",
+      "icon": "flower",
+      "pros": [
+        "Refreshing scent leaves a clean, invigorated feeling after use",
+        "Subtle herbal notes with natural saffron-like aroma profile"
+      ],
+      "top_pros": [
+        "Refreshing scent leaves a clean, invigorated feeling after use",
+        "Subtle herbal notes with natural saffron-like aroma profile"
+      ],
+      "quote": {
+        "review_id": "3305385",
+        "text": "Amazing old school fragrance",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "3305385",
+          "text": "Amazing old school fragrance",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    }
+  ],
+  "synopsis": "Reviews for Mamaearth Ubtan Face Wash with Turmeric & Saffron are largely positive. Many users report noticeable tan reduction and a healthy glow, often within a few uses. The cleanser is frequently described as a thick, paste-like formula with tiny exfoliating granules that cleanse well and can leave skin feeling fresh and soft. The saffron/turmeric scent is commonly noted as pleasant or mild. A number of reviewers highlight repeat purchases, while a smaller but recurring subset mention dryness, irritation, or breakouts, and some compare the texture to a scrub. Occasional comments cite non-foaming consistency, thicker dispensing, or packaging quirks.",
+  "key_takeaways": [
+    "Many note visible brightening and tan reduction within days of use",
+    "Cleanses well, leaving skin feeling fresh, soft, and sometimes smoother",
+    "Thick, paste-like formula with fine granules; doubles as mild exfoliation",
+    "Some report scrub harshness, dryness, or breakouts; experience varies"
+  ],
+  "claims_alignment": "exceeds",
+  "verdict": {
+    "rating": 4.5,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "Summary based solely on user feedback provided; experiences vary across reviewers.",
+  "meta": {
+    "review_count": 1883,
+    "date_range": [
+      "2019-01-31",
+      "2025-04-27"
+    ]
+  }
+}

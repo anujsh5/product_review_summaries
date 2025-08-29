@@ -1,0 +1,228 @@
+{
+  "product": {
+    "product_id": "160170",
+    "brand": "Stay Quirky",
+    "name": "Soft Mini Lipstick Set",
+    "subcategory": "Makeup Kit",
+    "price": 359.0,
+    "currency": "INR",
+    "urls": {
+      "product": "https://www.purplle.com/product/stay-quirky-lipstick-minis-kiss-me-with-every-lip-color-set-of-12-mini-lipsticks-144-g",
+      "image": "https://media6.ppl-media.com/static/img/product/160170/stay-quirky-lipstick-minis-kiss-me-with-every-lip-color-set-of-12-mini-lipsticks-144-g_8_display_1649255109_f68300f0.jpg"
+    }
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Delivers matte finish that lasts throughout the day",
+        "Controls shine effectively without caking or creasing over time",
+        "Performs consistently with quick results after minimal application"
+      ],
+      "top_pros": [
+        "Delivers matte finish that lasts throughout the day",
+        "Controls shine effectively without caking or creasing over time",
+        "Performs consistently with quick results after minimal application"
+      ],
+      "quote": {
+        "review_id": "1744677",
+        "text": "Colors are great again but this works good on Fair complexion than the wheatish white skins",
+        "author": "Cecilia Mary",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "1744677",
+          "text": "Colors are great again but this works good on Fair complexion than the wheatish white skins",
+          "author": "Cecilia Mary",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Good value for money given quality and performance",
+        "Affordable price point, comparable to more expensive options",
+        "Budget-friendly purchase with multiple shades, suitable for daily use"
+      ],
+      "top_pros": [
+        "Good value for money given quality and performance",
+        "Affordable price point, comparable to more expensive options",
+        "Budget-friendly purchase with multiple shades, suitable for daily use"
+      ],
+      "quote": {
+        "review_id": "1545272",
+        "text": "it's good with this price and pocket friendly cuz U can take all of them everywhere",
+        "author": "Nisha",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "1545272",
+          "text": "it's good with this price and pocket friendly cuz U can take all of them everywhere",
+          "author": "Nisha",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Smooth, creamy texture glides on lips without tugging",
+        "Decent pigmentation delivers visible color in a single swipe",
+        "Compact size allows precise, controlled application for beginners"
+      ],
+      "top_pros": [
+        "Smooth, creamy texture glides on lips without tugging",
+        "Decent pigmentation delivers visible color in a single swipe",
+        "Compact size allows precise, controlled application for beginners"
+      ],
+      "quote": {
+        "review_id": "1342013",
+        "text": "3 stars because of similar colors",
+        "author": "Ankita Beniwal",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "1342013",
+          "text": "3 stars because of similar colors",
+          "author": "Ankita Beniwal",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Cute, compact packaging suits travel and everyday carry",
+        "All-in-one box keeps shades organized and easy to store",
+        "Secure, well-cushioned packing protects products during delivery"
+      ],
+      "top_pros": [
+        "Cute, compact packaging suits travel and everyday carry",
+        "All-in-one box keeps shades organized and easy to store",
+        "Secure, well-cushioned packing protects products during delivery"
+      ],
+      "quote": {
+        "review_id": "1368090",
+        "text": "chota package Bora dahmaka amazing shade",
+        "author": "Nilufa",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "1368090",
+          "text": "chota package Bora dahmaka amazing shade",
+          "author": "Nilufa",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Creamy, smooth texture glides effortlessly without tugging or skipping",
+        "Soft, moisturizing feel keeps lips comfortable through extended wear",
+        "Even, pigmented coverage with a silky, creamy finish"
+      ],
+      "top_pros": [
+        "Creamy, smooth texture glides effortlessly without tugging or skipping",
+        "Soft, moisturizing feel keeps lips comfortable through extended wear",
+        "Even, pigmented coverage with a silky, creamy finish"
+      ],
+      "quote": {
+        "review_id": "1374490",
+        "text": "Good product but it's creamy shimmer lipstick not completely Matt lipstick",
+        "author": "Monisha Kl",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "1374490",
+          "text": "Good product but it's creamy shimmer lipstick not completely Matt lipstick",
+          "author": "Monisha Kl",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Ingredients",
+      "icon": "flask",
+      "pros": [
+        "Pigment-rich formula uses skin-friendly ingredients for smooth blendability",
+        "Includes nourishing emollients like vitamin E for comfort",
+        "Balanced oils and waxes support even application and wear"
+      ],
+      "top_pros": [
+        "Pigment-rich formula uses skin-friendly ingredients for smooth blendability",
+        "Includes nourishing emollients like vitamin E for comfort",
+        "Balanced oils and waxes support even application and wear"
+      ],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    },
+    {
+      "label": "Fragrance",
+      "icon": "flower",
+      "pros": [
+        "Pleasant, sweet scent enhances application without being overpowering",
+        "Light, non-chemical fragrance suitable for daily use",
+        "Consistent scent across shades, feels fresh and inviting"
+      ],
+      "top_pros": [
+        "Pleasant, sweet scent enhances application without being overpowering",
+        "Light, non-chemical fragrance suitable for daily use",
+        "Consistent scent across shades, feels fresh and inviting"
+      ],
+      "quote": {
+        "review_id": "1781315",
+        "text": "They are so tiny, so cute and smell like shade is very perfect",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "1781315",
+          "text": "They are so tiny, so cute and smell like shade is very perfect",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    }
+  ],
+  "synopsis": "Reviews describe a tiny 12-piece lipstick set with a broad color mix. Many highlight creamy, soft‑matte formulas with decent pigmentation, easy glide, and cute, travel‑friendly packaging that feels good value on discount. Common notes include very small bullet size, not fully matte/transfer‑proof finish, and wear that typically requires reapplication after a few hours; some also noticed similar or repeated shades. A few reported delivery or heat-related damage to bullets.",
+  "key_takeaways": [
+    "Offers twelve varied shades across reds, pinks, nudes, and occasional shimmers",
+    "Creamy, soft-matte texture with good pigmentation; glides smoothly during application",
+    "Ultra-compact, cute kit appreciated for travel convenience, gifting, and budget deals",
+    "Bullets are extremely small; wear time varies and often needs touch-ups"
+  ],
+  "claims_alignment": "matches",
+  "verdict": {
+    "rating": 4.0,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "Summary based solely on user reviews for this product.",
+  "meta": {
+    "review_count": 1058,
+    "date_range": [
+      "2019-01-11",
+      "2023-06-06"
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "product": {
+    "product_id": "141347"
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Instantly brightens skin and leaves a noticeable glow",
+        "Cleanses thoroughly yet feels gentle for everyday use",
+        "Helps reduce dullness and supports softer, more radiant skin"
+      ],
+      "top_pros": [
+        "Instantly brightens skin and leaves a noticeable glow",
+        "Cleanses thoroughly yet feels gentle for everyday use",
+        "Helps reduce dullness and supports softer, more radiant skin"
+      ],
+      "quote": {
+        "review_id": "718558",
+        "text": "it's smell is quite like syrup but it works well",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "718558",
+          "text": "it's smell is quite like syrup but it works well",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Good quality at an affordable price point",
+        "Offers solid performance for the cost",
+        "Provides value without compromising everyday use effectiveness"
+      ],
+      "top_pros": [
+        "Good quality at an affordable price point",
+        "Offers solid performance for the cost",
+        "Provides value without compromising everyday use effectiveness"
+      ],
+      "quote": {
+        "review_id": "1020558",
+        "text": "good for this price",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "1020558",
+          "text": "good for this price",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Cleanses effectively, leaving skin soft, smooth, and refreshed",
+        "Helps brighten complexion and reduce dullness after each wash"
+      ],
+      "top_pros": [
+        "Cleanses effectively, leaving skin soft, smooth, and refreshed",
+        "Helps brighten complexion and reduce dullness after each wash"
+      ],
+      "quote": {
+        "review_id": "698139",
+        "text": "product is very good",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "698139",
+          "text": "product is very good",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Secure packaging kept the product intact during delivery",
+        "Aesthetic bottle design looks premium and gift-ready"
+      ],
+      "top_pros": [
+        "Secure packaging kept the product intact during delivery",
+        "Aesthetic bottle design looks premium and gift-ready"
+      ],
+      "quote": {
+        "review_id": "770505",
+        "text": "the product is very nice n packaging is also great",
+        "author": "Diksha",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "770505",
+          "text": "the product is very nice n packaging is also great",
+          "author": "Diksha",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Leaves skin feeling soft, silky, and comfortably hydrated",
+        "Creamy lather cleanses without stripping or leaving residue"
+      ],
+      "top_pros": [
+        "Leaves skin feeling soft, silky, and comfortably hydrated",
+        "Creamy lather cleanses without stripping or leaving residue"
+      ],
+      "quote": {
+        "review_id": "828643",
+        "text": "A small amount will give a good form on face and after washing the face it will give a smooth and definitely…",
+        "author": "nishthakahodariya",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "828643",
+          "text": "A small amount will give a good form on face and after washing the face it will give a smooth and definitely…",
+          "author": "nishthakahodariya",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Ingredients",
+      "icon": "flask",
+      "pros": [
+        "Clear ingredient list with familiar, easy to understand components",
+        "Limited additives and minimal artificial colors or preservatives",
+        "Includes beneficial nutrients from natural sources for balanced formulation"
+      ],
+      "top_pros": [
+        "Clear ingredient list with familiar, easy to understand components",
+        "Limited additives and minimal artificial colors or preservatives",
+        "Includes beneficial nutrients from natural sources for balanced formulation"
+      ],
+      "quote": {
+        "review_id": "3297895",
+        "text": "Good vibes very well narrated the active ingredient list as \" papaya",
+        "author": "Debarati Nag",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "3297895",
+          "text": "Good vibes very well narrated the active ingredient list as \" papaya",
+          "author": "Debarati Nag",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Fragrance",
+      "icon": "flower",
+      "pros": [
+        "Pleasant fruity fragrance that feels light and refreshing",
+        "Fresh papaya-like aroma lingers briefly after washing"
+      ],
+      "top_pros": [
+        "Pleasant fruity fragrance that feels light and refreshing",
+        "Fresh papaya-like aroma lingers briefly after washing"
+      ],
+      "quote": {
+        "review_id": "947419",
+        "text": "n it has made my skin more soft n recommend amazing smell too",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "947419",
+          "text": "n it has made my skin more soft n recommend amazing smell too",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    }
+  ],
+  "synopsis": "Reviewers largely describe this papaya face wash as a gentle gel cleanser with a fruity scent that leaves skin feeling clean, soft, and refreshed. Many note an immediate, temporary brightening effect and that a small amount spreads well despite light lather. Experiences vary; some mentioned dryness, strong fragrance, or breakouts/irritation, and a few reported pump or packaging issues.",
+  "key_takeaways": [
+    "Cleanses effectively and leaves skin feeling fresh, soft, and smooth",
+    "Frequently noted for providing an immediate, temporary brightening or glow",
+    "Gel texture with light lather; small amount spreads and rinses well",
+    "Some reviewers reported breakouts or irritation; experiences varied widely"
+  ],
+  "claims_alignment": "matches",
+  "verdict": {
+    "rating": 4.5,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "Summary reflects recurring themes from the provided customer reviews for this product.",
+  "meta": {
+    "review_count": 1327,
+    "date_range": [
+      "2017-12-07",
+      "2022-09-05"
+    ]
+  }
+}

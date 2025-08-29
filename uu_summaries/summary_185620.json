@@ -1,0 +1,226 @@
+{
+  "product": {
+    "product_id": "185620",
+    "brand": "WOW",
+    "name": "Onion & Collagen Shampoo",
+    "subcategory": "Shampoo",
+    "price": 399.0,
+    "currency": "INR",
+    "urls": {
+      "product": "https://www.purplle.com/product/wow-skin-science-onion-black-seed-oil-shampoo-300-ml",
+      "image": "https://media6.ppl-media.com/static/img/product/185620/wow-skin-science-onion-black-seed-oil-shampoo-300-ml_8_display_1715680354_18586226.jpg"
+    }
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Noticeable improvement after first wash for many users",
+        "Helps reduce hair fall and strengthens hair over time",
+        "Nourishes and brightens hair, delivering effective results with consistency"
+      ],
+      "top_pros": [
+        "Noticeable improvement after first wash for many users",
+        "Helps reduce hair fall and strengthens hair over time",
+        "Nourishes and brightens hair, delivering effective results with consistency"
+      ],
+      "quote": {
+        "review_id": "3029178",
+        "text": "really I like this shampoo and result is to good problem is finsh",
+        "author": "Priya",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "3029178",
+          "text": "really I like this shampoo and result is to good problem is finsh",
+          "author": "Priya",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Good quality at a reasonable price, feels worth the spend",
+        "Offers solid performance for cost-conscious buyers seeking dependable results",
+        "Frequently discounted bundles increase value without compromising product quality"
+      ],
+      "top_pros": [
+        "Good quality at a reasonable price, feels worth the spend",
+        "Offers solid performance for cost-conscious buyers seeking dependable results",
+        "Frequently discounted bundles increase value without compromising product quality"
+      ],
+      "quote": {
+        "review_id": "2817492",
+        "text": "it's really good n it's mild smell really like it good quality but price vwise it's very costly overall very nic e",
+        "author": "Meena Solanki",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2817492",
+          "text": "it's really good n it's mild smell really like it good quality but price vwise it's very costly overall very nic e",
+          "author": "Meena Solanki",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Spreads evenly through hair with minimal effort and product",
+        "Lathers quickly and rinses out clean without residue",
+        "Pleasant consistency, not too thick or runny for application"
+      ],
+      "top_pros": [
+        "Spreads evenly through hair with minimal effort and product",
+        "Lathers quickly and rinses out clean without residue",
+        "Pleasant consistency, not too thick or runny for application"
+      ],
+      "quote": {
+        "review_id": "2486260",
+        "text": "Good product and useful",
+        "author": "Mandira Chakraborty",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2486260",
+          "text": "Good product and useful",
+          "author": "Mandira Chakraborty",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Sturdy packaging prevents leaks and protects contents in transit",
+        "Attractive design with proper sealing enhances overall unboxing experience"
+      ],
+      "top_pros": [
+        "Sturdy packaging prevents leaks and protects contents in transit",
+        "Attractive design with proper sealing enhances overall unboxing experience"
+      ],
+      "quote": {
+        "review_id": "3106625",
+        "text": "I ordered back from purple and the packaging of purple is really amazing",
+        "author": "Bandarai",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "3106625",
+          "text": "I ordered back from purple and the packaging of purple is really amazing",
+          "author": "Bandarai",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Leaves hair smooth, soft, and naturally silky after wash",
+        "Adds noticeable shine with a lightweight, non-greasy finish",
+        "Reduces frizz and improves manageability without heavy residue"
+      ],
+      "top_pros": [
+        "Leaves hair smooth, soft, and naturally silky after wash",
+        "Adds noticeable shine with a lightweight, non-greasy finish",
+        "Reduces frizz and improves manageability without heavy residue"
+      ],
+      "quote": {
+        "review_id": "2948706",
+        "text": "Less hair fall, silky smooth shampoo",
+        "author": "Bhoomi",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2948706",
+          "text": "Less hair fall, silky smooth shampoo",
+          "author": "Bhoomi",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Ingredients",
+      "icon": "flask",
+      "pros": [
+        "Gentle, clean formula with minimal harsh additives or irritants",
+        "Plant-based ingredients contribute to natural scent and light feel",
+        "Effective cleansers remove buildup while maintaining scalp comfort"
+      ],
+      "top_pros": [
+        "Gentle, clean formula with minimal harsh additives or irritants",
+        "Plant-based ingredients contribute to natural scent and light feel",
+        "Effective cleansers remove buildup while maintaining scalp comfort"
+      ],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    },
+    {
+      "label": "Fragrance",
+      "icon": "flower",
+      "pros": [
+        "Pleasant mild fragrance that many users find appealing",
+        "Leaves hair lightly scented without being overpowering",
+        "Fresh smell enhances washing experience and feels natural"
+      ],
+      "top_pros": [
+        "Pleasant mild fragrance that many users find appealing",
+        "Leaves hair lightly scented without being overpowering",
+        "Fresh smell enhances washing experience and feels natural"
+      ],
+      "quote": {
+        "review_id": "2553069",
+        "text": "I reli loved it then other oils then other n product is also is nonstikcy then other oils and smell is normal…",
+        "author": "Daksha",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2553069",
+          "text": "I reli loved it then other oils then other n product is also is nonstikcy then other oils and smell is normal…",
+          "author": "Daksha",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    }
+  ],
+  "synopsis": "Feedback on this shampoo is mixed. Many reviewers report smoother, shinier hair and a mild scent, with some noting reduced hair fall and clean scalps. Several mention the low-lather formula needing more product, especially after oiling, and occasional stickiness if not rinsed well. A noticeable subset experienced dryness, frizz, or increased hair fall, and some cited leaks or faulty pumps on delivery.",
+  "key_takeaways": [
+    "Leaves hair feeling smoother and shinier for many regular users.",
+    "Low-lather formula; may need extra product, particularly after oiling.",
+    "Mild, pleasant fragrance frequently mentioned across positive reviews.",
+    "Hair fall outcomes are mixed, ranging from reduction to noticeable increase."
+  ],
+  "claims_alignment": "matches",
+  "verdict": {
+    "rating": 4.0,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "Summary based solely on provided customer reviews; individual experiences may vary.",
+  "meta": {
+    "review_count": 1241,
+    "date_range": [
+      "2019-11-19",
+      "2025-04-10"
+    ]
+  }
+}

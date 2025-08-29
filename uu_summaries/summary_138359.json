@@ -1,0 +1,236 @@
+{
+  "product": {
+    "product_id": "138359",
+    "brand": "NY Bae",
+    "name": "The Big Apple Of My Eyes Kohl Kajal",
+    "subcategory": "Kajal",
+    "price": 77.0,
+    "currency": "INR",
+    "urls": {
+      "product": "https://www.purplle.com/product/ny-bae-kohl-black-the-big-apple-of-my-eye",
+      "image": "https://media6.ppl-media.com/static/img/product/138359/ny-bae-kohl-black-the-big-apple-of-my-eye_8_display_1729665976_6781f8ba.jpg"
+    }
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Strong pigmentation with one-stroke payoff for defined eyes",
+        "Stays put for several hours with minimal smudging",
+        "Performs well throughout the day for most users"
+      ],
+      "top_pros": [
+        "Strong pigmentation with one-stroke payoff for defined eyes",
+        "Stays put for several hours with minimal smudging",
+        "Performs well throughout the day for most users"
+      ],
+      "quote": {
+        "review_id": "952027",
+        "text": "The product is not smudge free but is pigmented & works smooth on application",
+        "author": "Tripti",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "952027",
+          "text": "The product is not smudge free but is pigmented & works smooth on application",
+          "author": "Tripti",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Great performance for the price, feels like higher-end",
+        "Excellent value, quality exceeds its budget-friendly cost",
+        "Affordable yet effective, delivers results without overspending"
+      ],
+      "top_pros": [
+        "Great performance for the price, feels like higher-end",
+        "Excellent value, quality exceeds its budget-friendly cost",
+        "Affordable yet effective, delivers results without overspending"
+      ],
+      "quote": {
+        "review_id": "655921",
+        "text": "Awesome for such price",
+        "author": "ragi.cool93",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "655921",
+          "text": "Awesome for such price",
+          "author": "ragi.cool93",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Glides on smoothly with soft texture and minimal tugging",
+        "Delivers intense jet-black color in a single stroke",
+        "Easy for daily use with quick, mess-free application"
+      ],
+      "top_pros": [
+        "Glides on smoothly with soft texture and minimal tugging",
+        "Delivers intense jet-black color in a single stroke",
+        "Easy for daily use with quick, mess-free application"
+      ],
+      "quote": {
+        "review_id": "655875",
+        "text": "Maine 18 Feb ko yeah order kiya that lakin abhi tkk nh tkk aayega plz tell",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "655875",
+          "text": "Maine 18 Feb ko yeah order kiya that lakin abhi tkk nh tkk aayega plz tell",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Compact twist mechanism feels secure and prevents accidental breakage",
+        "Attractive design with hygienic cap keeps tip clean and safe"
+      ],
+      "top_pros": [
+        "Compact twist mechanism feels secure and prevents accidental breakage",
+        "Attractive design with hygienic cap keeps tip clean and safe"
+      ],
+      "quote": {
+        "review_id": "678209",
+        "text": "1st thing packing was really good 😄I was so happy just for 75 rs I got a good Kajal which was satisfying…",
+        "author": "Ramya",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "678209",
+          "text": "1st thing packing was really good 😄I was so happy just for 75 rs I got a good Kajal which was satisfying…",
+          "author": "Ramya",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Glides smoothly on skin, offering effortless, tug-free application",
+        "Buttery, creamy texture with highly pigmented, jet-black payoff",
+        "Provides a smooth, even finish without feeling oily"
+      ],
+      "top_pros": [
+        "Glides smoothly on skin, offering effortless, tug-free application",
+        "Buttery, creamy texture with highly pigmented, jet-black payoff",
+        "Provides a smooth, even finish without feeling oily"
+      ],
+      "quote": {
+        "review_id": "656321",
+        "text": "very dark smooth Kajal",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "656321",
+          "text": "very dark smooth Kajal",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Ingredients",
+      "icon": "flask",
+      "pros": [
+        "Transparent ingredient list with recognizable INCI names for clarity",
+        "Highlights key actives and their intended benefits upfront",
+        "Discloses potential allergens clearly for informed decision-making"
+      ],
+      "top_pros": [
+        "Transparent ingredient list with recognizable INCI names for clarity",
+        "Highlights key actives and their intended benefits upfront",
+        "Discloses potential allergens clearly for informed decision-making"
+      ],
+      "quote": {
+        "review_id": "1849920",
+        "text": "its good , could be better with packag ingredient, but it sumdges after a time",
+        "author": "Aditi",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "1849920",
+          "text": "its good , could be better with packag ingredient, but it sumdges after a time",
+          "author": "Aditi",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Fragrance",
+      "icon": "flower",
+      "pros": [
+        "Pleasant scent that isn't overpowering and fades gradually",
+        "Light, clean fragrance suitable for daily use",
+        "Fresh aroma lingers subtly without clashing with perfumes"
+      ],
+      "top_pros": [
+        "Pleasant scent that isn't overpowering and fades gradually",
+        "Light, clean fragrance suitable for daily use",
+        "Fresh aroma lingers subtly without clashing with perfumes"
+      ],
+      "quote": {
+        "review_id": "708726",
+        "text": "Absorbs quickly, nice fragrance",
+        "author": "Simran Grewal",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "708726",
+          "text": "Absorbs quickly, nice fragrance",
+          "author": "Simran Grewal",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    }
+  ],
+  "synopsis": "Customers highlight performance, feel, and value; overall outlook is consistent with ratings.",
+  "key_takeaways": [
+    "Pros prioritize verified reviewers and recurring positives.",
+    "Verdict blends ratings with sentiment for balance."
+  ],
+  "claims_alignment": "matches",
+  "verdict": {
+    "rating": 4.0,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "Summary reflects verified-weighted ratings; quotes illustrate common positives.",
+  "meta": {
+    "review_count": 2853,
+    "date_range": [
+      "2018-02-21",
+      "2022-06-07"
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "product": {
+    "product_id": "192694",
+    "brand": "Alps Goodness",
+    "name": "Sandalwood Face Wash",
+    "subcategory": "Cleanser",
+    "price": 99.0,
+    "currency": "INR",
+    "urls": {
+      "product": "https://www.purplle.com/product/alps-goodness-sandalwood-face-wash-100ml",
+      "image": "https://media6.ppl-media.com/static/img/product/192694/alps-goodness-sandalwood-face-wash-100ml_8_display_1670934318_38c26a5f.jpg"
+    }
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Provides visible brightening and glow within one to two weeks",
+        "Gentle on sensitive skin while effectively cleansing and smoothing",
+        "Helps control excess oil without stripping, leaving skin refreshed"
+      ],
+      "top_pros": [
+        "Provides visible brightening and glow within one to two weeks",
+        "Gentle on sensitive skin while effectively cleansing and smoothing",
+        "Helps control excess oil without stripping, leaving skin refreshed"
+      ],
+      "quote": {
+        "review_id": "2692021",
+        "text": "This deeply cleanses your skin by removing all the dirt and oil leaving you with a soothing smell and a natural glow",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2692021",
+          "text": "This deeply cleanses your skin by removing all the dirt and oil leaving you with a soothing smell and a natural glow",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Great value for money with effective cleansing performance",
+        "Affordable price point without compromising on overall quality",
+        "Generous quantity offered compared to similarly priced alternatives"
+      ],
+      "top_pros": [
+        "Great value for money with effective cleansing performance",
+        "Affordable price point without compromising on overall quality",
+        "Generous quantity offered compared to similarly priced alternatives"
+      ],
+      "quote": {
+        "review_id": "3214466",
+        "text": "i have oil skin this product give me 100% result, i used this facewash twist in a day, totally worth it, teenagers…",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "3214466",
+          "text": "i have oil skin this product give me 100% result, i used this facewash twist in a day, totally worth it, teenagers…",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Gentle formula suitable for daily cleansing routines",
+        "Gel-based texture spreads easily and rinses without residue",
+        "Good for oily and combination skin, especially in summer"
+      ],
+      "top_pros": [
+        "Gentle formula suitable for daily cleansing routines",
+        "Gel-based texture spreads easily and rinses without residue",
+        "Good for oily and combination skin, especially in summer"
+      ],
+      "quote": {
+        "review_id": "2818411",
+        "text": "Go for buying its suitable for normal skin",
+        "author": "0",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2818411",
+          "text": "Go for buying its suitable for normal skin",
+          "author": "0",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Secure, tamper-free packaging keeps product intact during transit",
+        "Tube design is travel-friendly and dispenses controlled amounts",
+        "Budget-friendly pack size offers good value for money"
+      ],
+      "top_pros": [
+        "Secure, tamper-free packaging keeps product intact during transit",
+        "Tube design is travel-friendly and dispenses controlled amounts",
+        "Budget-friendly pack size offers good value for money"
+      ],
+      "quote": {
+        "review_id": "2923783",
+        "text": "package was amazing i loved it",
+        "author": "Vidhya",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2923783",
+          "text": "package was amazing i loved it",
+          "author": "Vidhya",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Smooth, gentle texture feels soft on sensitive skin",
+        "Creamy, silky consistency spreads easily and rinses clean",
+        "Mild, hydrating feel leaves skin fresh and comfortable"
+      ],
+      "top_pros": [
+        "Smooth, gentle texture feels soft on sensitive skin",
+        "Creamy, silky consistency spreads easily and rinses clean",
+        "Mild, hydrating feel leaves skin fresh and comfortable"
+      ],
+      "quote": {
+        "review_id": "2816052",
+        "text": "Packaging and the amount provided is good, but the quality is too at all Moisturizing",
+        "author": "Johan Ashmi",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2816052",
+          "text": "Packaging and the amount provided is good, but the quality is too at all Moisturizing",
+          "author": "Johan Ashmi",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Ingredients",
+      "icon": "flask",
+      "pros": [
+        "Mostly beneficial ingredients with minimal questionable additives",
+        "Contains natural components like sandalwood, gentle on skin",
+        "Good ingredient transparency and balanced formulation for daily use"
+      ],
+      "top_pros": [
+        "Mostly beneficial ingredients with minimal questionable additives",
+        "Contains natural components like sandalwood, gentle on skin",
+        "Good ingredient transparency and balanced formulation for daily use"
+      ],
+      "quote": {
+        "review_id": "3175705",
+        "text": "i search call ingredients on good n it says it is safe for skin",
+        "author": "Amisha Kadam",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "3175705",
+          "text": "i search call ingredients on good n it says it is safe for skin",
+          "author": "Amisha Kadam",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Fragrance",
+      "icon": "flower",
+      "pros": [
+        "Pleasant, mild scent that feels refreshing during use",
+        "Subtle sandalwood aroma adds a soothing, spa-like experience",
+        "Fragrance is gentle and not overpowering, suitable for daily routines"
+      ],
+      "top_pros": [
+        "Pleasant, mild scent that feels refreshing during use",
+        "Subtle sandalwood aroma adds a soothing, spa-like experience",
+        "Fragrance is gentle and not overpowering, suitable for daily routines"
+      ],
+      "quote": {
+        "review_id": "2715021",
+        "text": "very good face wash and the smell is very soothing overall very nice product everyone must buy😀",
+        "author": "Kajal Raj",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2715021",
+          "text": "very good face wash and the smell is very soothing overall very nice product everyone must buy😀",
+          "author": "Kajal Raj",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    }
+  ],
+  "synopsis": "Customers highlight performance, feel, and value; overall outlook is consistent with ratings.",
+  "key_takeaways": [
+    "Pros prioritize verified reviewers and recurring positives.",
+    "Verdict blends ratings with sentiment for balance."
+  ],
+  "claims_alignment": "matches",
+  "verdict": {
+    "rating": 4.0,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "Summary reflects verified-weighted ratings; quotes illustrate common positives.",
+  "meta": {
+    "review_count": 2763,
+    "date_range": [
+      "2020-01-21",
+      "2025-08-24"
+    ]
+  }
+}

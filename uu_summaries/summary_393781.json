@@ -1,0 +1,267 @@
+{
+  "product": {
+    "product_id": "393781",
+    "brand": "Good Vibes",
+    "name": "CICA Glow Sunscreen SPF 50 PA++++",
+    "subcategory": "sunscreen",
+    "price": {
+      "amount": 180.0,
+      "currency": "INR"
+    },
+    "currency": "INR",
+    "urls": {
+      "product": "https://www.purplle.com/product/good-vibes-cica-brightening-glow-sunscreen-50-gm",
+      "image": "https://media6.ppl-media.com/static/img/product/393781/good-vibes-cica-brightening-glow-sunscreen-50-gm_7_display_1754487183_32946b49.jpg"
+    },
+    "product_name": "CICA Glow Sunscreen SPF 50 PA++++",
+    "variant": "50 g",
+    "market_regions": [
+      "IN"
+    ],
+    "language": "en-IN",
+    "highlights": {
+      "bullets": [
+        "Lightweight aqua gel",
+        "Non-greasy formula",
+        "No white cast",
+        "Fragrance-free",
+        "Contains Cica extract",
+        "3% Niacinamide"
+      ],
+      "keywords": [
+        "sunscreen",
+        "spf 50",
+        "pa++++",
+        "brightening",
+        "cica",
+        "niacinamide",
+        "hyaluronic acid",
+        "lightweight",
+        "aqua gel",
+        "non-greasy",
+        "fragrance-free",
+        "skincare"
+      ],
+      "actives": [
+        "Cica extract",
+        "3% Niacinamide",
+        "Hyaluronic Acid",
+        "niacinamide 3%"
+      ]
+    }
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Provides instant glow and brightening effects on skin",
+        "Lightweight formula absorbs quickly without leaving residue",
+        "Hydrating properties contribute to a glass skin appearance"
+      ],
+      "top_pros": [
+        "Provides instant glow and brightening effects on skin",
+        "Lightweight formula absorbs quickly without leaving residue",
+        "Hydrating properties contribute to a glass skin appearance"
+      ],
+      "quote": {
+        "review_id": "18507995",
+        "text": "Gives nice light glow",
+        "author": "Vaishakichinnu",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "18507995",
+          "text": "Gives nice light glow",
+          "author": "Vaishakichinnu",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Excellent value for the price offered",
+        "Quick absorption makes it user-friendly",
+        "High quality product at an affordable cost"
+      ],
+      "top_pros": [
+        "Excellent value for the price offered",
+        "Quick absorption makes it user-friendly",
+        "High quality product at an affordable cost"
+      ],
+      "quote": {
+        "review_id": "18397139",
+        "text": "and worth the money",
+        "author": "Anutayde.1351995",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "18397139",
+          "text": "and worth the money",
+          "author": "Anutayde.1351995",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Lightweight formula with no white cast for easy application",
+        "Effective for sensitive skin, providing good hydration",
+        "Affordable option for oily combination skin types"
+      ],
+      "top_pros": [
+        "Lightweight formula with no white cast for easy application",
+        "Effective for sensitive skin, providing good hydration",
+        "Affordable option for oily combination skin types"
+      ],
+      "quote": {
+        "review_id": "18510835",
+        "text": "it was very light weight apply it on daily purpose I loved it and it was pocket friendly also",
+        "author": "Tanya Singh",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "18510835",
+          "text": "it was very light weight apply it on daily purpose I loved it and it was pocket friendly also",
+          "author": "Tanya Singh",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Packaging ensures product safety during transit.",
+        "Impressive quality of packaging enhances unboxing experience.",
+        "Product arrives in excellent condition due to packaging."
+      ],
+      "top_pros": [
+        "Packaging ensures product safety during transit.",
+        "Impressive quality of packaging enhances unboxing experience.",
+        "Product arrives in excellent condition due to packaging."
+      ],
+      "quote": {
+        "review_id": "18719430",
+        "text": "the product is too good and packing is too good",
+        "author": "Gagana Gagana",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "18719430",
+          "text": "the product is too good and packing is too good",
+          "author": "Gagana Gagana",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Lightweight texture feels comfortable on the skin",
+        "Hydrating formula provides a smooth finish",
+        "Non-greasy and absorbs quickly without residue"
+      ],
+      "top_pros": [
+        "Lightweight texture feels comfortable on the skin",
+        "Hydrating formula provides a smooth finish",
+        "Non-greasy and absorbs quickly without residue"
+      ],
+      "quote": {
+        "review_id": "18843391",
+        "text": "it's hydrating and smooth",
+        "author": "Guest",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "18843391",
+          "text": "it's hydrating and smooth",
+          "author": "Guest",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Ingredients",
+      "icon": "flask",
+      "pros": [
+        "Lightweight formula absorbs quickly into the skin",
+        "Non-greasy texture leaves a natural finish",
+        "Similar ingredients to popular sunscreen variants"
+      ],
+      "top_pros": [
+        "Lightweight formula absorbs quickly into the skin",
+        "Non-greasy texture leaves a natural finish",
+        "Similar ingredients to popular sunscreen variants"
+      ],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    },
+    {
+      "label": "Fragrance",
+      "icon": "flower",
+      "pros": [
+        "Product is effective despite the chemical scent.",
+        "Hydrating formula with no white cast.",
+        "Convenient to use and absorbs well."
+      ],
+      "top_pros": [
+        "Product is effective despite the chemical scent.",
+        "Hydrating formula with no white cast.",
+        "Convenient to use and absorbs well."
+      ],
+      "quote": {
+        "review_id": "18691159",
+        "text": "worth for money it has no smell so really good you can buy it trustfully",
+        "author": "Sabjan Knpy",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "18691159",
+          "text": "worth for money it has no smell so really good you can buy it trustfully",
+          "author": "Sabjan Knpy",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    }
+  ],
+  "synopsis": "The Good Vibes CICA Glow Sunscreen SPF 50 PA++++ is generally well-received for its lightweight, non-greasy formula and effective sun protection. However, some users report issues with skin irritation and a chemical smell.",
+  "key_takeaways": [
+    "Lightweight and non-greasy, suitable for daily use.",
+    "Absorbs quickly without leaving a white cast.",
+    "Some users experienced irritation or dullness after application.",
+    "Affordable price point makes it a popular choice."
+  ],
+  "claims_alignment": "matches",
+  "verdict": {
+    "rating": 4.5,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "Overall, the sunscreen is praised for its effectiveness and value, despite some mixed reviews.",
+  "meta": {
+    "review_count": 405,
+    "date_range": [
+      "2025-03-25",
+      "2025-08-26"
+    ]
+  }
+}

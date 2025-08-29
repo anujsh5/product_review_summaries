@@ -1,0 +1,250 @@
+{
+  "product": {
+    "product_id": "385023",
+    "brand": "DERMDOC",
+    "name": "2% Kojic Acid and 0.5% Glutathione Cleansing Bar",
+    "subcategory": "body_soap",
+    "price": {
+      "amount": 122.0,
+      "currency": "INR"
+    },
+    "currency": "INR",
+    "urls": {
+      "product": "https://www.purplle.com/product/dermdoc-2-percentage-kojic-acid-and-0-5-percentage-glutathione-cleansing-bar",
+      "image": "https://media6.ppl-media.com/static/img/product/385023/dermdoc-2-percentage-kojic-acid-and-0-5-percentage-glutathione-cleansing-bar_8_display_1730270048_d608c014.jpg"
+    },
+    "product_name": "2% Kojic Acid and 0.5% Glutathione Cleansing Bar",
+    "variant": "75 g",
+    "market_regions": [
+      "IN"
+    ],
+    "language": "en-IN",
+    "highlights": {
+      "bullets": [
+        "75 gm cleansing bar",
+        "contains 2% kojic acid",
+        "contains 0.5% glutathione",
+        "gentle cleansing action",
+        "brightening properties"
+      ],
+      "keywords": [
+        "cleansing",
+        "kojic acid",
+        "glutathione",
+        "brightening",
+        "gentle",
+        "sensitive"
+      ],
+      "actives": [
+        "kojic acid 2%",
+        "glutathione 0.5%"
+      ]
+    }
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Brightens skin and reduces tan effectively",
+        "Visible results after just one week of use",
+        "Instant glow and pigmentation reduction observed"
+      ],
+      "top_pros": [
+        "Brightens skin and reduces tan effectively",
+        "Visible results after just one week of use",
+        "Instant glow and pigmentation reduction observed"
+      ],
+      "quote": {
+        "review_id": "17376054",
+        "text": "nice package and worth for money but i use this 2 days so don't know for effects",
+        "author": "Guest",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "17376054",
+          "text": "nice package and worth for money but i use this 2 days so don't know for effects",
+          "author": "Guest",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Good value for the price paid",
+        "Product meets expectations for quality",
+        "Satisfactory performance for the investment"
+      ],
+      "top_pros": [
+        "Good value for the price paid",
+        "Product meets expectations for quality",
+        "Satisfactory performance for the investment"
+      ],
+      "quote": {
+        "review_id": "17571399",
+        "text": "if stocks and offers not available how to purchase products on purple app, that too in this competition world rating good 4…",
+        "author": "Shilpa M",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "17571399",
+          "text": "if stocks and offers not available how to purchase products on purple app, that too in this competition world rating good 4…",
+          "author": "Shilpa M",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Hydrating and easy to use for all skin types",
+        "Gentle on skin, leaves it soft and supple",
+        "Visible improvement in pigmentation with regular use"
+      ],
+      "top_pros": [
+        "Hydrating and easy to use for all skin types",
+        "Gentle on skin, leaves it soft and supple",
+        "Visible improvement in pigmentation with regular use"
+      ],
+      "quote": {
+        "review_id": "17437457",
+        "text": "I love this soap and use it daily",
+        "author": "Msejal2002",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "17437457",
+          "text": "I love this soap and use it daily",
+          "author": "Msejal2002",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Attractive packaging enhances overall product appeal",
+        "Quick delivery with excellent packing quality",
+        "Soothing scent complemented by good packaging"
+      ],
+      "top_pros": [
+        "Attractive packaging enhances overall product appeal",
+        "Quick delivery with excellent packing quality",
+        "Soothing scent complemented by good packaging"
+      ],
+      "quote": {
+        "review_id": "18759595",
+        "text": "product quality and packaging everything good",
+        "author": "Guest",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "18759595",
+          "text": "product quality and packaging everything good",
+          "author": "Guest",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Ingredients",
+      "icon": "flask",
+      "pros": [
+        "Glutathione soap bar offers effective cleansing benefits.",
+        "Kojic acid provides noticeable skin brightening results.",
+        "Gentle ingredients suitable for daily facial use."
+      ],
+      "top_pros": [
+        "Glutathione soap bar offers effective cleansing benefits.",
+        "Kojic acid provides noticeable skin brightening results.",
+        "Gentle ingredients suitable for daily facial use."
+      ],
+      "quote": {
+        "review_id": "18083259",
+        "text": "so I won't prefer for daily you want to use daily atleast make sure you follow it up with good ceramide moisturizer",
+        "author": "pedada prasanna",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "18083259",
+          "text": "so I won't prefer for daily you want to use daily atleast make sure you follow it up with good ceramide moisturizer",
+          "author": "pedada prasanna",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Leaves skin feeling smooth and refreshed",
+        "Gentle texture suitable for all skin types",
+        "Enhances skin brightness and softness"
+      ],
+      "top_pros": [
+        "Leaves skin feeling smooth and refreshed",
+        "Gentle texture suitable for all skin types",
+        "Enhances skin brightness and softness"
+      ],
+      "quote": {
+        "review_id": "17410550",
+        "text": "It’s so hydrating and easy to use",
+        "author": "Henal",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "17410550",
+          "text": "It’s so hydrating and easy to use",
+          "author": "Henal",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Skin Type",
+      "icon": "heart",
+      "pros": [],
+      "top_pros": [],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    }
+  ],
+  "synopsis": "The Dermdoc 2% Kojic Acid and 0.5% Glutathione Cleansing Bar has received mixed reviews, with many users praising its effectiveness in brightening skin and reducing tan, while others report adverse reactions such as increased acne and skin darkening.",
+  "key_takeaways": [
+    "Many users report improved skin brightness and reduced tan.",
+    "Some users experienced adverse effects like increased acne and skin irritation.",
+    "The soap is noted for its gentle texture and pleasant fragrance.",
+    "Packaging and delivery service received positive feedback."
+  ],
+  "claims_alignment": "matches",
+  "verdict": {
+    "rating": 4.0,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "Overall, results vary significantly among users, with both positive and negative experiences reported.",
+  "meta": {
+    "review_count": 475,
+    "date_range": [
+      "2024-10-28",
+      "2025-08-26"
+    ]
+  }
+}

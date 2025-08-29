@@ -1,0 +1,200 @@
+{
+  "product": {
+    "product_id": "182458",
+    "brand": "Maybelline",
+    "name": "Fit Me Liquid Foundation",
+    "subcategory": "Foundation",
+    "price": 299.0,
+    "currency": "INR",
+    "urls": {
+      "product": "https://www.purplle.com/product/maybelline-new-york-fit-me-matte-poreless-liquid-foundation-tube-128-warm-nude-18-ml",
+      "image": "https://media6.ppl-media.com/static/img/product/182458/maybelline-new-york-fit-me-matte-poreless-liquid-foundation-tube-128-warm-nude-18-ml_8_display_1664449036_a094215e.jpg"
+    }
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Provides natural-looking glow with effective coverage of minor imperfections",
+        "Blends easily into skin, melting smoothly without patchiness",
+        "Suitable for most skin types with consistently good results"
+      ],
+      "top_pros": [
+        "Provides natural-looking glow with effective coverage of minor imperfections",
+        "Blends easily into skin, melting smoothly without patchiness",
+        "Suitable for most skin types with consistently good results"
+      ],
+      "quote": {
+        "review_id": "4066092",
+        "text": "good matte effect and easy to blend",
+        "author": "Archana Roy",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "4066092",
+          "text": "good matte effect and easy to blend",
+          "author": "Archana Roy",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Good price-to-quality ratio, delivers performance without overspending",
+        "Competitive pricing compared to similar products in the market",
+        "Worth the price, consistent results and efficient usage"
+      ],
+      "top_pros": [
+        "Good price-to-quality ratio, delivers performance without overspending",
+        "Competitive pricing compared to similar products in the market",
+        "Worth the price, consistent results and efficient usage"
+      ],
+      "quote": {
+        "review_id": "4059127",
+        "text": "I WILL GIVE IT A FULL FIVE BCOZ ITS TOO GOOD AND OFCOURSE THE PRICE MATTERS",
+        "author": "Sanchita Paliyal",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "4059127",
+          "text": "I WILL GIVE IT A FULL FIVE BCOZ ITS TOO GOOD AND OFCOURSE THE PRICE MATTERS",
+          "author": "Sanchita Paliyal",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Blends easily into skin, giving a natural finish",
+        "Buildable coverage applies smoothly without looking cakey",
+        "Lightweight texture spreads evenly and sets quickly for daily use"
+      ],
+      "top_pros": [
+        "Blends easily into skin, giving a natural finish",
+        "Buildable coverage applies smoothly without looking cakey",
+        "Lightweight texture spreads evenly and sets quickly for daily use"
+      ],
+      "quote": {
+        "review_id": "2560531",
+        "text": "nude ppl who have cool undertone must go for this",
+        "author": "SUDIKSHA",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "2560531",
+          "text": "nude ppl who have cool undertone must go for this",
+          "author": "SUDIKSHA",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Secure, tamper-proof packaging protects product during transit",
+        "Compact tube size is travel-friendly and easy to store",
+        "Neat, attractive design gives a clean, premium feel"
+      ],
+      "top_pros": [
+        "Secure, tamper-proof packaging protects product during transit",
+        "Compact tube size is travel-friendly and easy to store",
+        "Neat, attractive design gives a clean, premium feel"
+      ],
+      "quote": {
+        "review_id": "4040450",
+        "text": "amazing product fits me properly plus the packaging was super good must purchase product for all beginners",
+        "author": "Divya Khanna",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "4040450",
+          "text": "amazing product fits me properly plus the packaging was super good must purchase product for all beginners",
+          "author": "Divya Khanna",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Smooth, lightweight texture spreads evenly and blends effortlessly",
+        "Soft matte finish feels comfortable without looking heavy",
+        "Creamy consistency offers even coverage and minimizes visible pores"
+      ],
+      "top_pros": [
+        "Smooth, lightweight texture spreads evenly and blends effortlessly",
+        "Soft matte finish feels comfortable without looking heavy",
+        "Creamy consistency offers even coverage and minimizes visible pores"
+      ],
+      "quote": {
+        "review_id": "3731809",
+        "text": "it's even your skin tone and gives a smooth finish",
+        "author": "Bidyut Saha",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "3731809",
+          "text": "it's even your skin tone and gives a smooth finish",
+          "author": "Bidyut Saha",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Shade",
+      "icon": "palette",
+      "pros": [],
+      "top_pros": [],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    },
+    {
+      "label": "Finish",
+      "icon": "sparkles",
+      "pros": [],
+      "top_pros": [],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    }
+  ],
+  "synopsis": "Reviewers frequently praise this foundation for blending easily, feeling lightweight, and delivering a smooth, matte-to-natural finish that evens out the complexion. Coverage is commonly described as sheer to medium and buildable, with many noting decent wear time across the day. Value feedback is mixed: while some call it affordable and long-lasting, many highlight the tube’s very small size and recurring reports of underfilled or half-empty packaging. Shade experiences vary—several found a perfect match, though others reported mismatches or occasional oxidation. A few comments mention a noticeable smell.",
+  "key_takeaways": [
+    "Blends easily with a lightweight texture, resulting in smooth, natural-looking finish",
+    "Offers sheer to medium coverage, buildable for everyday makeup and occasions",
+    "Many note decent longevity; stays in place for several hours after application",
+    "Frequent complaints about very small size or underfilled tubes reducing perceived value"
+  ],
+  "claims_alignment": "matches",
+  "verdict": {
+    "rating": 4.0,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "Summary derived from buyer reviews across shades and the mini tube format; individual experiences may vary.",
+  "meta": {
+    "review_count": 1639,
+    "date_range": [
+      "2019-11-27",
+      "2023-11-01"
+    ]
+  }
+}

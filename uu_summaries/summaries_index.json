@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "product_id": "138323",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_138323.json",
+      "review_count": 2270,
+      "avg_rating": 4.15,
+      "verdict": "Buy",
+      "has_meta": true
+    },
+    {
+      "product_id": "138359",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_138359.json",
+      "review_count": 2853,
+      "avg_rating": 4.02,
+      "verdict": "Buy",
+      "has_meta": true
+    },
+    {
+      "product_id": "141110",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_141110.json",
+      "review_count": 1162,
+      "avg_rating": 3.32,
+      "verdict": "Consider",
+      "has_meta": true
+    },
+    {
+      "product_id": "141347",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_141347.json",
+      "review_count": 1327,
+      "avg_rating": 4.26,
+      "verdict": "Buy",
+      "has_meta": false
+    },
+    {
+      "product_id": "146103",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_146103.json",
+      "review_count": 1268,
+      "avg_rating": 4.2,
+      "verdict": "Buy",
+      "has_meta": false
+    },
+    {
+      "product_id": "158108",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_158108.json",
+      "review_count": 1883,
+      "avg_rating": 4.37,
+      "verdict": "Buy",
+      "has_meta": true
+    },
+    {
+      "product_id": "160170",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_160170.json",
+      "review_count": 1058,
+      "avg_rating": 3.95,
+      "verdict": "Buy",
+      "has_meta": true
+    },
+    {
+      "product_id": "181887",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_181887.json",
+      "review_count": 1478,
+      "avg_rating": 3.95,
+      "verdict": "Buy",
+      "has_meta": false
+    },
+    {
+      "product_id": "182458",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_182458.json",
+      "review_count": 1639,
+      "avg_rating": 3.94,
+      "verdict": "Buy",
+      "has_meta": true
+    },
+    {
+      "product_id": "185620",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_185620.json",
+      "review_count": 1241,
+      "avg_rating": 3.78,
+      "verdict": "Buy",
+      "has_meta": true
+    },
+    {
+      "product_id": "192694",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_192694.json",
+      "review_count": 2763,
+      "avg_rating": 4.02,
+      "verdict": "Buy",
+      "has_meta": true
+    },
+    {
+      "product_id": "193841",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_193841.json",
+      "review_count": 1914,
+      "avg_rating": 4.09,
+      "verdict": "Buy",
+      "has_meta": false
+    },
+    {
+      "product_id": "228959",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_228959.json",
+      "review_count": 883,
+      "avg_rating": 3.97,
+      "verdict": "Buy",
+      "has_meta": false
+    },
+    {
+      "product_id": "236867",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_236867.json",
+      "review_count": 3675,
+      "avg_rating": 3.93,
+      "verdict": "Buy",
+      "has_meta": false
+    },
+    {
+      "product_id": "344732",
+      "file": "C:\\Users\\anuj.sharma\\Desktop\\Product_Reviews\\Review_Gen\\uu_summaries\\summary_344732.json",
+      "review_count": 1027,
+      "avg_rating": 3.84,
+      "verdict": "Buy",
+      "has_meta": true
+    }
+  ]
+}

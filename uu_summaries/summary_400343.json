@@ -1,0 +1,199 @@
+{
+  "product": {
+    "product_id": "400343",
+    "brand": "NY Bae",
+    "name": "All Need Makeup Kit- 80 gm",
+    "subcategory": "makeup_kit",
+    "price": {
+      "amount": 599.0,
+      "currency": "INR"
+    },
+    "currency": "INR",
+    "urls": {
+      "product": "https://www.purplle.com/product/ny-bae-makeup-kit-80-gm",
+      "image": "https://media6.ppl-media.com/static/img/product/400343/ny-bae-makeup-kit-80-gm_8_display_1754486547_96c04ea0.jpg"
+    },
+    "product_name": "All Need Makeup Kit- 80 gm",
+    "variant": "80 g",
+    "market_regions": [
+      "IN"
+    ],
+    "language": "en-IN",
+    "highlights": {
+      "bullets": [
+        "Includes primer, BB cream, compact, blush, kajal, mascara, lipstick, setting spray",
+        "Travel-friendly design",
+        "Long-lasting formula",
+        "Gift box packaging",
+        "All-in-one 8-step makeup kit",
+        "Best sellers included"
+      ],
+      "keywords": [
+        "kit",
+        "primer",
+        "bb cream",
+        "compact",
+        "blush",
+        "kajal",
+        "mascara",
+        "lipstick",
+        "setting spray",
+        "travel",
+        "long-lasting",
+        "gift",
+        "combo"
+      ],
+      "actives": []
+    }
+  },
+  "aspects": [
+    {
+      "label": "Efficacy",
+      "icon": "zap",
+      "pros": [
+        "Visible improvement reported by many",
+        "Helps with glow and clarity",
+        "Consistent results with regular use"
+      ],
+      "top_pros": [
+        "Visible improvement reported by many",
+        "Helps with glow and clarity",
+        "Consistent results with regular use"
+      ],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    },
+    {
+      "label": "Value",
+      "icon": "indian-rupee",
+      "pros": [
+        "Affordable price for quality makeup products",
+        "Great value for a complete makeup kit",
+        "Impressive performance at a budget-friendly cost"
+      ],
+      "top_pros": [
+        "Affordable price for quality makeup products",
+        "Great value for a complete makeup kit",
+        "Impressive performance at a budget-friendly cost"
+      ],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    },
+    {
+      "label": "Application",
+      "icon": "hand",
+      "pros": [
+        "Compact size makes it easy to carry around",
+        "Affordable option for a complete makeup kit",
+        "Simple products suitable for everyday use"
+      ],
+      "top_pros": [
+        "Compact size makes it easy to carry around",
+        "Affordable option for a complete makeup kit",
+        "Simple products suitable for everyday use"
+      ],
+      "quote": {
+        "review_id": "19551394",
+        "text": "easy to use travel friendly love it",
+        "author": "Guest",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "19551394",
+          "text": "easy to use travel friendly love it",
+          "author": "Guest",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Packaging",
+      "icon": "box",
+      "pros": [
+        "Attractive design enhances the overall product appeal",
+        "Eco-friendly materials contribute to sustainability efforts",
+        "Convenient packaging makes it easy to use and store"
+      ],
+      "top_pros": [
+        "Attractive design enhances the overall product appeal",
+        "Eco-friendly materials contribute to sustainability efforts",
+        "Convenient packaging makes it easy to use and store"
+      ],
+      "quote": {
+        "review_id": "19586866",
+        "text": "Cute packaging, The products are amazing",
+        "author": "Avani Salgaonkar",
+        "verified": true
+      },
+      "quotes": [
+        {
+          "review_id": "19586866",
+          "text": "Cute packaging, The products are amazing",
+          "author": "Avani Salgaonkar",
+          "verified": true
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "label": "Texture",
+      "icon": "droplets",
+      "pros": [
+        "Lightweight, non-greasy feel",
+        "Absorbs quickly without residue",
+        "Smooth, easy-to-spread texture"
+      ],
+      "top_pros": [
+        "Lightweight, non-greasy feel",
+        "Absorbs quickly without residue",
+        "Smooth, easy-to-spread texture"
+      ],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    },
+    {
+      "label": "Shade",
+      "icon": "palette",
+      "pros": [],
+      "top_pros": [],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    },
+    {
+      "label": "Longevity",
+      "icon": "clock",
+      "pros": [],
+      "top_pros": [],
+      "quote": null,
+      "quotes": [],
+      "sentiment": "mixed"
+    }
+  ],
+  "synopsis": "The NY Bae All Need Makeup Kit is a versatile and budget-friendly makeup solution, praised for its travel-friendly design and effective products.",
+  "key_takeaways": [
+    "Includes essential makeup items for a complete look.",
+    "Compact and travel-friendly, suitable for on-the-go use.",
+    "Positive feedback on product quality and performance.",
+    "Some users noted missing shades, like brown lipstick."
+  ],
+  "claims_alignment": "exceeds",
+  "verdict": {
+    "rating": 4.5,
+    "label": "Buy",
+    "reasons": "Weighted ratings (verified boosted) blended with sentiment."
+  },
+  "footer": "For more details, visit the product page: https://www.purplle.com/product/ny-bae-makeup-kit-80-gm",
+  "meta": {
+    "review_count": 9,
+    "date_range": [
+      "2025-08-18",
+      "2025-08-25"
+    ]
+  }
+}
